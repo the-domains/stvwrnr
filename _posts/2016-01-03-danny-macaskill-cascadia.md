@@ -17,8 +17,8 @@ keywords:
   - gran
   - goo
 description: Join Danny MacAskill on an insane journey across the rooftops of Gran Canaria
-datePublished: '2016-01-03T16:32:32.508Z'
-dateModified: '2016-01-03T16:32:12.133Z'
+datePublished: '2016-01-03T16:36:40.257Z'
+dateModified: '2016-01-03T16:36:33.700Z'
 author:
   - name: GoPro
     url: 'https://www.youtube.com/user/GoProCamera'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=GL0rbxB9Lqg&feature=applinks'
     type: web
 title: Danny MacAskill - Cascadia
+sourcePath: _posts/2016-01-03-danny-macaskill-cascadia.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-03-danny-macaskill-cascadia.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
