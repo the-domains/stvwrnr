@@ -16,9 +16,9 @@ keywords:
   - caucasus
   - georgia
   - verbier
-description: "Experience the feature story: features.bikemag.com/kazbegi/ What happens when four like-minded adventurers head into one of the world's wildest mountain ranges with nothing but their mountain bikes and enough food to survive for 10 days? The answer? What doesn't happen? Terrifying lightning storms. Raging-river crossings. Snow-covered glacial pass traverses. Mind-melting descents."
-datePublished: '2016-01-03T16:25:13.925Z'
-dateModified: '2016-01-03T16:25:07.565Z'
+description: "What happens when four like-minded adventurers head into one of the world's wildest mountain ranges with nothing but their mountain bikes and enough food to survive for 10 days? "
+datePublished: '2016-01-03T16:32:32.795Z'
+dateModified: '2016-01-03T16:28:02.032Z'
 author:
   - name: Bike Magazine
     url: 'https://www.youtube.com/user/TheBikemag'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=WFIrHgleSxs&feature=applinks'
     type: web
 title: The Trail to Kazbegi
+sourcePath: _posts/2016-01-03-the-trail-to-kazbegi.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-03-the-trail-to-kazbegi.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
