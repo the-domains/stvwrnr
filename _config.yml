@@ -1,0 +1,28 @@
+name: stvwrnr
+favicon: null
+layout_spectrum: 0.3990194338839501
+typography_spectrum: 0.5042573413811624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4031129567883909
+  lightness: 0.10913860215805471
+  saturation: 0.2605964576359838
+  rhythmicContrast: 0.7841936605982482
+purpose: []
