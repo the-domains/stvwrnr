@@ -4,8 +4,15 @@
         <description><![CDATA[Steve Warner's Blog]]></description>
         <link>https://thegrid.ai/stvwrnr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 00:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 01:08:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stvwrnr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hope Pro 4: Adam Brayton RAW]]></title>
+            <description><![CDATA[<article><h1>Hope Pro 4: Adam Brayton RAW</h1><p>Adams Brayton has been riding Hope Hubs for the best part of 10 years. What better way to test the new Hope Pro 4 hubs than send Adam Brayton to Pila to get RAW...</p></article>]]></description>
+            <link>https://vimeo.com/150519302</link>
+            <guid isPermaLink="false">644ad221-2257-451c-b3cc-d991b8160a0b</guid>
+            <pubDate>Wed, 06 Jan 2016 01:08:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[MTB]freeride downhill]]></title>
             <description><![CDATA[<article><h1>[MTB]freeride downhill</h1><p>downhill n freeride in whistler mtb park..music: two shoes- the cat empire</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cadabe42933070e04cf75e1401f8a026aaee4ca3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=GL0rbxB9Lqg</link>
             <guid isPermaLink="false">d4efc426-867e-4799-8fe1-257276ce20e5</guid>
             <pubDate>Sun, 03 Jan 2016 16:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Trail to Kazbegi]]></title>
-            <description><![CDATA[<article><h1>The Trail to Kazbegi</h1><p>Experience the feature story: features.bikemag.com/kazbegi/ What happens when four like-minded adventurers head into one of the world's wildest mountain ranges with nothing but their mountain bikes and enough food to survive for 10 days? The answer? What doesn't happen? Terrifying lightning storms. Raging-river crossings. Snow-covered glacial pass traverses. Mind-melting descents.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/629fb63848f479911eedb294fe54a112b66aa44b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=WFIrHgleSxs</link>
-            <guid isPermaLink="false">a64a9e3e-8379-4f2a-a3f1-c178d49b2da4</guid>
-            <pubDate>Sun, 03 Jan 2016 16:32:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
