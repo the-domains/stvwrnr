@@ -2,7 +2,7 @@ name: stvwrnr
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
-title: "Steve Warner's Blog"
+title: "Steve Warner's MTB Blog"
 collections:
   - index:
       path: /
