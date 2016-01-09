@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steve Warner's Blog]]></title>
-        <description><![CDATA[Steve Warner's Blog]]></description>
+        <title><![CDATA[Steve Warner's MTB Blog]]></title>
+        <description><![CDATA[Steve Warner's MTB Blog]]></description>
         <link>https://thegrid.ai/stvwrnr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 01:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 15:09:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stvwrnr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Shredding!]]></title>
+            <description><![CDATA[<article><h1>Shredding!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e8b931ca5774ea2af048d4d84514983a2b8cecf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stvwrnr/shredding/index.html</link>
+            <guid isPermaLink="false">96643584-b30c-4226-ac60-2b2cc21bbb71</guid>
+            <pubDate>Sat, 09 Jan 2016 15:08:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hope Pro 4: Adam Brayton RAW]]></title>
-            <description><![CDATA[<article><h1>Hope Pro 4: Adam Brayton RAW</h1><p>Adams Brayton has been riding Hope Hubs for the best part of 10 years. What better way to test the new Hope Pro 4 hubs than send Adam Brayton to Pila to get RAW...</p></article>]]></description>
+            <description><![CDATA[<article><h1>Hope Pro 4: Adam Brayton RAW</h1><p>Adams Brayton has been riding Hope Hubs for the best part of 10 years. What better way to test the new Hope Pro 4 hubs than send Adam Brayton to Pila to get RAW...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe5bf8191cd33adfe5f577d50cdefbfae37f7a37.jpg"></article>]]></description>
             <link>https://vimeo.com/150519302</link>
             <guid isPermaLink="false">644ad221-2257-451c-b3cc-d991b8160a0b</guid>
             <pubDate>Wed, 06 Jan 2016 01:08:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/78435775</link>
             <guid isPermaLink="false">50db47a0-0fdf-4ac1-90d0-a250fd562972</guid>
             <pubDate>Sun, 03 Jan 2016 21:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Danny MacAskill - Cascadia]]></title>
-            <description><![CDATA[<article><h1>Danny MacAskill - Cascadia</h1><p>Join Danny MacAskill on an insane journey across the rooftops of Gran Canaria. Mixing vertigo-inducing lines and killer POV-footage, "Cascadia" delivers some incredible riding. In collaboration with Mount Creative http://www.mountcreative.com/ and Vision Ramps http://visionramps.co.uk/ A Special Thanks to the wonderful people of Gran Canaria who opened their homes to us and helped make this project a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea7038715e5f0b56ae7ff929ba06a51db8920eda.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=GL0rbxB9Lqg</link>
-            <guid isPermaLink="false">d4efc426-867e-4799-8fe1-257276ce20e5</guid>
-            <pubDate>Sun, 03 Jan 2016 16:36:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
